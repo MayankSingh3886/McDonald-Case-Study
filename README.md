@@ -5,9 +5,9 @@ An interactive Excel-based sales analytics dashboard designed to analyze McDonal
 
 The project transforms raw sales data into actionable business insights using Excel Tables, PivotTables, PivotCharts, KPIs, slicers, and dynamic visualizations.
 
-## Screenshot
+## Dashboard Preview
 
-![Screenshots](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 📊 Project Overview
 
 The objective of this project is to understand sales performance and customer purchasing patterns through an interactive dashboard.
